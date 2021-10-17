@@ -1,2 +1,2 @@
 # notion-integration
-Project to learn integration Notion API with UI.
+Integration of Notion API
