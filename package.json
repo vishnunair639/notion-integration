@@ -1,0 +1,30 @@
+{
+  "name": "notion-integration",
+  "version": "1.0.0",
+  "description": "Project with notion API integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnunair639/notion-integration.git"
+  },
+  "keywords": [
+    "notion",
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "Vishnu (@gunnerwhocodes)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnunair639/notion-integration/issues"
+  },
+  "homepage": "https://github.com/vishnunair639/notion-integration#readme",
+  "dependencies": {
+    "@notionhq/client": "^0.4.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
