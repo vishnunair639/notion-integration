@@ -11,7 +11,7 @@ const listDatabases = async() =>{
     const response = await notion.databases.list();
     console.log(response);
 }
-//listDatabases();
+
 const database_id = process.env.NOTION_DATABASE_ID
 
 listDatabases();
