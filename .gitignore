@@ -7,7 +7,6 @@ node_modules
 /src/compiler/compile/internal_exports.ts
 /compiler.d.ts
 /compiler.*js
-/index.*js
 /ssr.*js
 /internal
 /store
